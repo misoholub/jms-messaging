@@ -1,6 +1,8 @@
 bin/
 .settings/
+data/*
+!data/message.example.xml
 .classpath
 .project
-message*
+./message*
 resources/config.properties
