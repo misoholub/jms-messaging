@@ -1,0 +1,6 @@
+bin/
+.settings/
+.classpath
+.project
+message*
+resources/config.properties
